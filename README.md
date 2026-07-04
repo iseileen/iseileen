@@ -1,4 +1,4 @@
-- 👋 Hi, I’m eileen.
+- 👋 Hi, I’m eileen (凌之).
 - 👀 My speciality is Python、ASP、PHP、JavaScript、jQuery & bootstrap...
 - 🌱 I’m currently learning vue.js
 - 📫 pls contact me : eileen0928@gmail.com
