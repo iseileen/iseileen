@@ -1,9 +1,7 @@
-- 👋 Hi, I’m eileen (凌之).
-- 👀 My speciality is Python、ASP、PHP、JavaScript、jQuery & bootstrap...
-- 🌱 I’m currently learning vue.js
-- 📫 pls contact me : eileen0928@gmail.com
+👋 Hi, I'm Eileen (凌之)
 
-<!---
-iseileen/iseileen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 AI Project Manager
+
+🤖 Focused on AI product planning, AI implementation, and delivering practical AI solutions.
+
+📫 Contact: eileen0928@gmail.com
